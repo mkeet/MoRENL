@@ -9,4 +9,5 @@ This repository has as intention to make the code easily available under a licen
 * https://github.com/AdeebNqo/ToCT
 * https://github.com/AdeebNqo/grammarinfusedtemplates
 * https://github.com/AdeebNqo/NLGarch
-* https://github.com/AmySolomons/DAFT_AmySolomons 
+* https://github.com/AmySolomons/DAFT_AmySolomons
+* https://github.com/Junior-moraba/Daft 
