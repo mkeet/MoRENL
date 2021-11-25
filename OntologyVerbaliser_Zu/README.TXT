@@ -17,7 +17,7 @@ To verbalise your ontology:
     IRI : http://www.semanticweb.org/mariakeet/ontologies/2016/10/testOntoisiZuluWithPW.owl
 * Ontology path: use the whole path name to the directory wheter the ontology is stored.
   e.g., 
-    /Users/yourhomedirectory/PycharmProjects/OntologyVerbaliser_Zu/example 
+    /Users/yourHomeDirectory/OntologyVerbaliser_Zu/ModifiedOntology
 
 * Errors are saved in the 'Error.txt' file
 
